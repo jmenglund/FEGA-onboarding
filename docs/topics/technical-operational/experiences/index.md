@@ -1,8 +1,10 @@
 ---
+excerpt: Node experiences
 layout: default
-title: Technical and Operational Experiences
+title: Node experiences
+nav_order: 6
 has_children: false
-has_toc: true
+has_toc: false
 ---
 
 # Selecting submission pilots
